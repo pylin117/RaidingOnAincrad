@@ -1,3 +1,3 @@
 # RaidingOnAincrad
-RISC-V Programming Assignment: Raiding on Aincrad<br/>
- *[內容] RISC-V遞迴練習
+RISC-V Programming Assignment: Raiding on Aincrad
+ * [內容] RISC-V遞迴練習
